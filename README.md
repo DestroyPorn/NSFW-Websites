@@ -10,4 +10,4 @@ We know that there are a lot of websites we haven't got in our list, thats why w
 - Remember to update `lastFetched.txt` when contributing.
 
 ## Credits
-- (bryput/porn-site-list)[https://github.com/bryput/porn-site-list/blob/master/sites.json]
+- [bryput/porn-site-list](https://github.com/bryput/porn-site-list/blob/master/sites.json)
