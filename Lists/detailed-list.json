@@ -694,6 +694,24 @@
     },
     {
         "protocol": "http",
+        "domain": "www.hentaihaven.xxx",
+        "path": null,
+        "subdomain": "www",
+        "host": "hentaihaven",
+        "tld": "xxx",
+        "parent_domain": "hentaihaven.xxx"
+    },
+    {
+        "protocol": "http",
+        "domain": "www.hentaihaven.xxx",
+        "path": null,
+        "subdomain": "www",
+        "host": "hentaihaven",
+        "tld": "com",
+        "parent_domain": "hentaihaven.com"
+    },
+    {
+        "protocol": "http",
         "domain": "www.xhamster.com",
         "path": "search.php?q=arab&qcat=video",
         "subdomain": "www",
